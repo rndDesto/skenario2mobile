@@ -1,0 +1,102 @@
+.root {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 48px;
+  padding: 48px 0;
+  background-color: #fff;
+}
+.container {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 16px;
+}
+.content {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+}
+.linkLogosOnly {
+  width: 32px;
+  height: 32px;
+  overflow: visible;
+}
+.headingAndSupportingText {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 8px;
+}
+.heading {
+  color: #101828;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  align-self: stretch;
+}
+.supportingText {
+  color: #667085;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  align-self: stretch;
+}
+.actions {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 12px;
+}
+.container2 {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 16px;
+}
+.content2 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 32px 0 0;
+  outline: solid 1px #eaecf0;
+  outline-offset: -1px;
+}
+.footerLinks {
+  z-index: 0;
+  align-items: flex-start;
+  gap: 16px;
+}
+.footerLink {
+  color: #98a2b3;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  white-space: nowrap;
+}
+.footerLink2 {
+  color: #98a2b3;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  white-space: nowrap;
+}
+.footerLink3 {
+  color: #98a2b3;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  white-space: nowrap;
+}
+.footerText {
+  color: #98a2b3;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  align-self: stretch;
+}

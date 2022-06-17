@@ -1,0 +1,16 @@
+.root {
+  width: 48px;
+  height: 48px;
+  place-content: center;
+  align-items: center;
+  position: relative;
+  border-radius: 10px;
+  background-color: #9e77ed;
+}
+.phone {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 12px;
+  top: 12px;
+}

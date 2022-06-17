@@ -1,0 +1,22 @@
+.root {
+  width: 140.8332px;
+  height: 40px;
+  align-items: flex-start;
+  position: relative;
+}
+.logomark {
+  position: absolute;
+  left: 0;
+  right: 82.8402%;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.logotype {
+  position: absolute;
+  left: 24.8402%;
+  right: 0.5081%;
+  top: 25.7999%;
+  bottom: 17.4416%;
+  overflow: visible;
+}
